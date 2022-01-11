@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haxqer&show_icons=true)
+## My GitHub Awards
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=willfindlay&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Pinned
 
